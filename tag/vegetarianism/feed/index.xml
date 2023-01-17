@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>vegetarianism Archives - Bradford Keen</title>
+	<atom:link href="/tag/vegetarianism/feed/?simply_static_page=157" rel="self" type="application/rss+xml" />
+	<link>/tag/vegetarianism/</link>
+	<description>Writer of features and fiction</description>
+	<lastBuildDate>Fri, 16 Sep 2011 13:25:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Meat is murder &#8211; save the rhino, save the cows and chickens and &#8230;</title>
+		<link>/meat-is-murder-save-the-rhino-save-the-cows-and-chickens-and/</link>
+					<comments>/meat-is-murder-save-the-rhino-save-the-cows-and-chickens-and/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Sep 2011 13:25:09 +0000</pubDate>
+				<category><![CDATA[Nothing in particular]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[abattoir]]></category>
+		<category><![CDATA[murder]]></category>
+		<category><![CDATA[vegetarianism]]></category>
+		<guid isPermaLink="false">http://www.bradkeen.com/?p=361</guid>
+
+					<description><![CDATA[<p>If someone ever told me to consider Daisy the Cow while I glided my sharp knife through a fleshy, bloodied steak, I would have stabbed them with the same blade. Well, at least mocked them with some bushveld braaivleis bravado. But that is all in the past. Now I am far more inclined to use [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/meat-is-murder-save-the-rhino-save-the-cows-and-chickens-and/">Meat is murder &#8211; save the rhino, save the cows and chickens and &#8230;</a> appeared first on <a rel="nofollow" href="/">Bradford Keen</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/meat-is-murder-save-the-rhino-save-the-cows-and-chickens-and/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

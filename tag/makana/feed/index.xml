@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Makana Archives - Bradford Keen</title>
+	<atom:link href="/tag/makana/feed/?simply_static_page=147" rel="self" type="application/rss+xml" />
+	<link>/tag/makana/</link>
+	<description>Writer of features and fiction</description>
+	<lastBuildDate>Sat, 11 Sep 2010 11:08:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Smoke’s silence</title>
+		<link>/smokes-silence/</link>
+					<comments>/smokes-silence/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 11 Sep 2010 11:08:11 +0000</pubDate>
+				<category><![CDATA[University Work]]></category>
+		<category><![CDATA[Grahamstown]]></category>
+		<category><![CDATA[immersion]]></category>
+		<category><![CDATA[Makana]]></category>
+		<category><![CDATA[police. narrative journalism]]></category>
+		<guid isPermaLink="false">http://www.bradkeen.com/?p=152</guid>
+
+					<description><![CDATA[<p>Monray Nel waits behind the solid iron gate. About six feet five inches, Nel stands high above most people. He is confidently tall, erect and impeccably dressed. Once you manage to locate his face somewhere in the clouded abyss, his big smile allays any fears of the awkwardness of the meeting. “One of you must [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/smokes-silence/">Smoke’s silence</a> appeared first on <a rel="nofollow" href="/">Bradford Keen</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/smokes-silence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

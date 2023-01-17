@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>service delivery Archives - Bradford Keen</title>
+	<atom:link href="/tag/service-delivery/feed/?simply_static_page=155" rel="self" type="application/rss+xml" />
+	<link>/tag/service-delivery/</link>
+	<description>Writer of features and fiction</description>
+	<lastBuildDate>Mon, 26 Mar 2012 13:02:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Kya Sands Protest in Johannesburg</title>
+		<link>/kya-sands-protest-johannesburg/</link>
+					<comments>/kya-sands-protest-johannesburg/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Mar 2012 13:02:28 +0000</pubDate>
+				<category><![CDATA[Video]]></category>
+		<category><![CDATA[informal settlements]]></category>
+		<category><![CDATA[johannesburg]]></category>
+		<category><![CDATA[protests]]></category>
+		<category><![CDATA[service delivery]]></category>
+		<guid isPermaLink="false">http://www.bradkeen.com/?p=405</guid>
+
+					<description><![CDATA[<p>Service delivery riots and protests are happening across the country. People are angry about a lack of water, housing, education and many other services promised to them by government. In desperation they take to the streets often violently.</p>
+<p>The post <a rel="nofollow" href="/kya-sands-protest-johannesburg/">Kya Sands Protest in Johannesburg</a> appeared first on <a rel="nofollow" href="/">Bradford Keen</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/kya-sands-protest-johannesburg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
